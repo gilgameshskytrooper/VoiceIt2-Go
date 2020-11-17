@@ -14,7 +14,7 @@ import (
 	"github.com/gilgameshskytrooper/VoiceIt2-Go/v2/structs"
 )
 
-const PlatformVersion string = "v2.5.4"
+const PlatformVersion string = "v2.5.0"
 const PlatformId string = "39"
 
 type VoiceIt2 struct {
